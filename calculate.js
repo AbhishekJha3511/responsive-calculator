@@ -46,6 +46,7 @@ function clearDisplay() {
 // Enter function
 function enterDisplay() {
     display.value = eval(display.value);
+    
 }
 
 // Add event listeners for numeric buttons
